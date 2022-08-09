@@ -6,7 +6,7 @@ let etapas = [
             {
                 numero: '38111',
                 nome: 'LUCAS RAFAEL MENDES',
-                partido: 'BOIOLAS',
+                partido: 'PERT',
                 fotos: [
                     {url:'38111.jpg', legenda: 'Vereador'}
                 ]
@@ -14,8 +14,8 @@ let etapas = [
             
             {
                 numero: '77222',
-                nome: 'KENY KENY',
-                partido: 'VIADOS',
+                nome: 'KENNEDY',
+                partido: 'PHBN',
                 fotos:[
                     {url:'77222.jpg',legenda: 'Vereador'}
                 ]
@@ -23,7 +23,7 @@ let etapas = [
             {
                 numero: '24244',
                 nome: 'JOJO TODINHO',
-                partido: 'GOR',
+                partido: 'PXXXX',
                 fotos:[
                     {url:'77222.jpg',legenda: 'Vereador'}
                 ]
